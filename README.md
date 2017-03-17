@@ -1,0 +1,2 @@
+# add_video_and_camera
+HTML5 VideoタグとPC接続されたカメラの映像と音声を合成してひとつの動画ファイルを生成
