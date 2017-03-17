@@ -87,7 +87,7 @@
 				media_recorder.ondataavailable = function (e) {
 					var blob_url = URL.createObjectURL(e.data);
 					mixed_video.src = blob_url;
-					btn_download.download = 'recorded.webm';
+					btn_download.download = 'mixed.webm';
 					btn_download.href = blob_url;
 					document.body.className = "result";
 				}
